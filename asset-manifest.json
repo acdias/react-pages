@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/acdias/react-pages/static/css/main.073c9b0a.css",
-    "main.js": "/acdias/react-pages/static/js/main.ad06afbf.js",
-    "static/js/787.c2651732.chunk.js": "/acdias/react-pages/static/js/787.c2651732.chunk.js",
-    "static/media/logo.svg": "/acdias/react-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/acdias/react-pages/index.html",
-    "main.073c9b0a.css.map": "/acdias/react-pages/static/css/main.073c9b0a.css.map",
-    "main.ad06afbf.js.map": "/acdias/react-pages/static/js/main.ad06afbf.js.map",
-    "787.c2651732.chunk.js.map": "/acdias/react-pages/static/js/787.c2651732.chunk.js.map"
+    "main.css": "/react-pages/static/css/main.073c9b0a.css",
+    "main.js": "/react-pages/static/js/main.17464d87.js",
+    "static/js/787.c2651732.chunk.js": "/react-pages/static/js/787.c2651732.chunk.js",
+    "static/media/logo.svg": "/react-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-pages/index.html",
+    "main.073c9b0a.css.map": "/react-pages/static/css/main.073c9b0a.css.map",
+    "main.17464d87.js.map": "/react-pages/static/js/main.17464d87.js.map",
+    "787.c2651732.chunk.js.map": "/react-pages/static/js/787.c2651732.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.ad06afbf.js"
+    "static/js/main.17464d87.js"
   ]
 }
